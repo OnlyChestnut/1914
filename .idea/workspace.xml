@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a483b3d4-9a13-4fca-a307-2f96830c8330" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/config/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/config/jest/cssTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/config/jest/fileTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/config/modules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/config/paths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/config/pnpTs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/config/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/config/webpackDevServer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/scripts/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/scripts/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1914admin/scripts/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1914admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/1914admin/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1914admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/1914admin/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1914admin/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1914admin/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1914admin/src/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1914admin/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1914admin/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1914admin/src/logo.svg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/1914admin/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -1723,15 +1704,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572568186302</updated>
-      <workItem from="1572568199507" duration="12051000" />
+      <workItem from="1572568199507" duration="12429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12051000" />
+    <option name="totallyTimeSpent" value="12429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="422" y="78" width="794" height="679" extended-state="1" />
+    <frame x="422" y="78" width="794" height="679" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
@@ -1879,7 +1860,7 @@
     <entry file="file://$PROJECT_DIR$/1914admin/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
